@@ -16,16 +16,23 @@ The purpose of this election audit was to gather insight on how votes were cast 
 When looking at the breakdown of votes by County in the election:
 
 -In Jefferson County ther were 38,855 votes cast which was 10.5% of the overall votes cast
+
 -In Denver County ther were 306,055 votes cast which was 82.8% of the overall votes cast
+
 -In Arapahoe County ther were 24,801 votes cast which was 6.7% of the overall votes cast
+
 -The County with the largest percentage of the votes cast was Denver County
 
 When it comes to the Candidates in the election:
 
 -Charles Casper Stockham: has 85,213 votes which was 23.0% of the vote. 
+
 -Diana DeGette: has 272,892 votes which was 73.8% of the vote. 
+
 -Raymon Anathony Doane: has 11,606 votes which was 3.1% of the vote. 
+
 -The winner of the Election was Diana DeGette
+
 -She had 272,892 votes which is 73.8% of the overall votes cast. 
 
 ### Election-Audit Summary: 
