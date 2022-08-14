@@ -9,7 +9,7 @@ The purpose of this election audit was to gather insight on how votes were cast 
 
 ## Election-Audit Results 
 
-![Image of Election Results](\)
+![Image of Election Results](https://github.com/Andrew-E-Walters/Election-Analysis/blob/main/Election%20Analysis%20Pictures/election_analysis_text.png)
 
 - There were 369,711 votes cast in this congressional election.
 
@@ -37,5 +37,7 @@ When it comes to the Candidates in the election:
 
 ### Election-Audit Summary: 
 This Script can be used for future applications. 
+
 With some tweaking, the data could tell you what percentage of votes each candidate recieved on a county basis. This could help a campaign in the future know where they should be targeting their voter outreach. They can then use the data to increase their share of votes in the future election by targeting counties where they had a small percentage of the overall vote count. 
+
 Another application wouuld be to compare the total votes in each county to the total population of the county. Right now we only see the votes as a percentage of total votes cast. It could be benefical to know if their are certian counties that have a high or low voter turnout as a percentage of the total population. 
