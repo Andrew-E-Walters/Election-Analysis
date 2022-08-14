@@ -4,10 +4,10 @@
 ### Assignment
 We were tasked by Seth and Tom submit the election audit results to the election commission.The election commission has also requested some additional data to complete the audit. They want to know the breakdown of votes by Candidate and County. 
 
-###Purpose
+### Purpose
 The purpose of this election audit was to gather insight on how votes were cast in the election. Through some investigation of the data we were able to see how much votes and the percentage of votes that each candidate recieved. We were also able to see the same breakdown of votes and percentage of votes that each county recieved. 
 
-##Election-Audit Results 
+## Election-Audit Results 
 
 ![Image of Election Results]()
 
