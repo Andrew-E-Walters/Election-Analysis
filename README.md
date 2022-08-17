@@ -8,7 +8,12 @@ We were tasked by Seth and Tom submit the election audit results to the election
 The purpose of this election audit was to gather insight on how votes were cast in the election. Through some investigation of the data we were able to see how much votes and the percentage of votes that each candidate recieved. We were also able to see the same breakdown of votes and percentage of votes that each county recieved. 
 
 ## Election-Audit Results 
+We were able to print all information to the terminal and the .txt file. 
 
+### Terminal
+![Image of Election Results](https://github.com/Andrew-E-Walters/Election-Analysis/blob/main/Election%20Analysis%20Pictures/election_analysis_terminal.png)
+
+### .txt code of Election Results
 ![Image of Election Results](https://github.com/Andrew-E-Walters/Election-Analysis/blob/main/Election%20Analysis%20Pictures/election_analysis_text.png)
 
 - There were 369,711 votes cast in this congressional election.
